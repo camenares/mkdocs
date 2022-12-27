@@ -36,6 +36,7 @@ dependencies = [
     "click >=7.0",
     "Jinja2 >=2.11.1",
     "markdown-katex",
+    "mdx-truly-sane-lists",
     "Markdown ==3.3.7",
     "PyYAML >=5.1",
     "watchdog >=2.0",
